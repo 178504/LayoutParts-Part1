@@ -32,12 +32,12 @@
   display: table;
 }
 
-.css1{
+.table_tex_align{
   display: table-cell;
   vertical-align: middle;
   text-align: center;
 }
-.css2{
+.table_text{
   display: inline-block;
   padding: 10px;
   background: #fff;
@@ -51,7 +51,7 @@
   justify-content: center;
 }
 
-.css3{
+.flex_text{
   background: #fff;
   padding: 10px;
 }
