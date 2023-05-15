@@ -5,7 +5,7 @@
 }
 
 .text{
-  list-style: none;
+list-style: none;
 outline: 10px solid #655;
 box-shadow: 0 0 0 6px #655;
 border-radius: 13px;
@@ -13,7 +13,7 @@ background: #d2b48c;
 width: 200px;
 padding: 10px;
 margin-top: 30px;
-margin-left: 60px;
+margin-right: 60px;
 }
 
 .text:last-child{
