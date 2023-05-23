@@ -1,9 +1,8 @@
 @charset "UTF-8";
 .list{
   display: flex;
-  flex-wrap: wrap;
   justify-content: center;
-  align-items: flex-end;
+  align-items: stretch;
 }
 
 .text{
@@ -15,8 +14,6 @@ background: #d2b48c;
 width: 200px;
 padding: 10px;
 margin-right: 60px;
-display: flex;
-align-self: stretch;
 }
 
 .text:last-child{
